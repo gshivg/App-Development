@@ -166,39 +166,35 @@ App development is the process of creating a computer program or a set of progra
 
 - Android
 
-> 1. [Android App Development Course](https://www.udacity.com/course/new-android-fundamentals--ud851)
-> 2. [Android App Development Course](https://www.udemy.com/course/the-complete-android-oreo-developer-course/)
-> 3. [Android App Development Course](https://www.coursera.org/specializations/android-app-development)
-> 4. [Android App Development Course](https://www.edx.org/professional-certificate/galileox-android-developer)
-> 5. [Android App Development Course](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+> 1. [Udaity - Paid](https://www.udacity.com/course/new-android-fundamentals--ud851)
+> 2. [Udemy - Paid](https://www.udemy.com/course/the-complete-android-oreo-developer-course/)
+> 3. [Coursera - Free](https://www.coursera.org/specializations/android-app-development)
 
 - iOS
 
-> 1. [iOS App Development Course](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
-> 2. [iOS App Development Course](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
-> 3. [iOS App Development Course](https://www.coursera.org/specializations/app-development)
-> 4. [iOS App Development Course](https://www.edx.org/professional-certificate/harvardx-mobile-app-development-with-swiftui)
+> 1. [Udacity - Paid](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
+> 2. [Udemy - Paid](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+> 3. [Coursera - Free](https://www.coursera.org/specializations/app-development)
+> 4. [edX - Free](https://www.edx.org/learn/ios-app/curtin-university-build-your-very-first-ios-app?index=product&queryID=907b78e458c0d63831708845523c202e&position=1&results_level=first-level-results&term=swift&objectID=course-ce9805f1-f239-4278-9777-0c98767114b7&campaign=Build+your+very+first+iOS+app&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
 
 - Flutter
 
-> 1. [Flutter App Development Course](https://www.udacity.com/course/flutter-nanodegree--nd035)
-> 2. [Flutter App Development Course](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
-> 3. [Flutter App Development Course](https://www.coursera.org/specializations/flutter)
-> 4. [Flutter App Development Course](https://www.edx.org/professional-certificate/dart-and-flutter)
+> 1. [Udacity - Free](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
+> 2. [Udemy - Paid](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+> 3. [Coursera - Free](https://www.coursera.org/projects/googlecloud-getting-started-with-flutter-development-guo1q)
 
 - React Native
 
-> 1. [React Native App Development Course](https://www.udacity.com/course/react-native-developer-nanodegree--nd019)
-> 2. [React Native App Development Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
-> 3. [React Native App Development Course](https://www.coursera.org/specializations/react-native)
-> 4. [React Native App Development Course](https://www.edx.org/professional-certificate/react-native-developer)
+> 1. [Udacity - Paid](https://www.udacity.com/course/react-native--cd0444)
+> 2. [Udemy - Paid](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
+> 3. [Coursera - Free](https://www.coursera.org/specializations/meta-react-native)
 
 ### 5.2. App Development Books
 
-> 1. [Android App Development Book](https://www.amazon.com/Android-Programming-Ranch-Guide-Guides/dp/0134706056)
-> 2. [iOS App Development Book](https://www.amazon.com/iOS-Programming-Ranch-Guide-Guides/dp/0135264022)
-> 3. [Flutter App Development Book](https://www.amazon.com/Flutter-Action-Build-cutting-edge-mobile/dp/1617296147)
-> 4. [React Native App Development Book](https://www.amazon.com/React-Native-Action-Nader-Dabit/dp/1617294055)
+> 1. [Android App Development Book](https://www.amazon.in/Head-First-Android-Development-Grayscale/dp/9355420854/ref=sr_1_3?crid=2R4PQSLVGOUMB&keywords=android+development+book&qid=1696431190&sprefix=android+de%2Caps%2C349&sr=8-3)
+> 2. [iOS App Development Book](https://www.amazon.in/iOS-Programming-Beginners-development-hands/dp/180323704X/ref=sr_1_3?crid=G9KFW4HWBWI6&keywords=ios+development+book&qid=1696431214&sprefix=ios+development+book%2Caps%2C289&sr=8-3)
+> 3. [Flutter App Development Book](https://www.amazon.in/Beginning-Flutter-Hands-Guide-Development/dp/1119550823/ref=sr_1_1?crid=3QUBEHBWT3G4W&keywords=flutter+development+book&qid=1696431237&sprefix=flutte+development+book%2Caps%2C255&sr=8-1)
+> 4. [React Native App Development Book](https://www.amazon.in/React-Native-Mobile-Development-Applications/dp/1484244532/ref=sr_1_7?crid=1BUFXBJN8SHZX&keywords=react+native+development+book&qid=1696431254&sprefix=react+native+development+book%2Caps%2C317&sr=8-7)
 
 ### 5.3. App Development Tools
 
@@ -219,49 +215,6 @@ App development is the process of creating a computer program or a set of progra
 > 3. [r/FlutterDev](https://www.reddit.com/r/FlutterDev/)
 > 4. [r/reactnative](https://www.reddit.com/r/reactnative/)
 
-- LinkedIn
-
-> 1. [Android Developers](https://www.linkedin.com/groups/4332757/)
-> 2. [iOS Developers](https://www.linkedin.com/groups/137507/)
-> 3. [Flutter Developers](https://www.linkedin.com/groups/13868082/)
-> 4. [React Native Developers](https://www.linkedin.com/groups/13868082/)
-> 5. [Mobile App Developers](https://www.linkedin.com/groups/13868082/)
-
-- Twitter
-
-> 1. [Android Developers](https://twitter.com/AndroidDev)
-> 2. [iOS Developers](https://twitter.com/iOSDevCenters)
-> 3. [Flutter Developers](https://twitter.com/FlutterDev)
-> 4. [React Native Developers](https://twitter.com/reactnative)
-
-- Facebook
-
-> 1. [Android Developers](https://www.facebook.com/groups/androiddevelopers)
-> 2. [iOS Developers](https://www.facebook.com/groups/iosdevelopers)
-> 3. [Flutter Developers](https://www.facebook.com/groups/flutterdev)
-> 4. [React Native Developers](https://www.facebook.com/groups/react.native.community)
-
-- Slack
-
-> 1. [Android Developers](https://androiddevs.slack.com/)
-> 2. [iOS Developers](https://ios-developers.io/)
-> 3. [Flutter Developers](https://fluttercommunity.slack.com/)
-> 4. [React Native Developers](https://reactiflux.com/)
-
-- Discord
-
-> 1. [Android Developers](https://discord.com/invite/androiddev)
-> 2. [iOS Developers](https://discord.com/invite/iosdev)
-> 3. [Flutter Developers](https://discord.com/invite/N7Yshp4)
-> 4. [React Native Developers](https://discord.com/invite/reactiflux)
-
-- Stack Overflow
-
-> 1. [Android Developers](https://stackoverflow.com/questions/tagged/android)
-> 2. [iOS Developers](https://stackoverflow.com/questions/tagged/ios)
-> 3. [Flutter Developers](https://stackoverflow.com/questions/tagged/flutter)
-> 4. [React Native Developers](https://stackoverflow.com/questions/tagged/react-native)
-
 ### 5.5. App Development Blogs
 
 - Android
@@ -274,8 +227,6 @@ App development is the process of creating a computer program or a set of progra
 > 6. [Android Hive](https://www.androidhive.info/)
 > 7. [AndroidPub](https://android.jlelse.eu/)
 > 8. [Android Arsenal](https://android-arsenal.com/)
-> 9. [Android Weekly](https://androidweekly.net/)
-> 10. [Android Developers](https://developer.android.com/blog)
 
 - iOS
 
@@ -283,30 +234,15 @@ App development is the process of creating a computer program or a set of progra
 > 2. [iOS Goodies](https://ios-goodies.com/)
 > 3. [iOS Dev Directory](https://iosdevdirectory.com/)
 > 4. [iOS Developers](https://developer.apple.com/news/)
-> 5. [iOS Developers Blog](https://developer.apple.com/news/)
-> 6. [iOS Developers Library](https://developer.apple.com/library/archive/navigation/)
-> 7. [iOS Developers Forums](https://developer.apple.com/forums/)
-> 8. [iOS Developers Documentation](https://developer.apple.com/documentation/)
-> 9. [iOS Developers Videos](https://developer.apple.com/videos/)
-> 10. [iOS Developers WWDC](https://developer.apple.com/wwdc/)
 
 - Flutter
 
-> 1. [Flutter](https://flutter.dev/blog/)
-> 2. [Flutter Community](https://fluttercommunity.dev/)
-> 3. [Flutter Institute](https://flutter.institute/)
-> 4. [Flutter Rocks](https://flutter.rocks/)
-> 5. [Flutter Tutorials](https://flutter-tutorials.com/)
-> 6. [Flutter Widgets](https://flutter.dev/docs/development/ui/widgets)
-> 7. [Flutter Cookbook](https://flutter.dev/docs/cookbook)
+> 1. [Flutter Institute](https://flutter.institute/)
+> 2. [Flutter Tutorials](https://flutter-tutorials.com/)
 
 - React Native
 
 > 1. [React Native Blog](https://reactnative.dev/blog/)
-> 2. [React Native Community](https://reactnative.dev/community)
-> 3. [React Native Tutorials](https://reactnative.dev/docs/tutorial)
-> 4. [React Native Components](https://reactnative.dev/docs/components-and-apis)
-> 5. [React Native CLI](https://reactnative.dev/docs/environment-setup)
 
 ### 5.6. App Development Podcasts
 
@@ -326,29 +262,7 @@ App development is the process of creating a computer program or a set of progra
 
 > 1. [React Native Radio](https://devchat.tv/react-native-radio/)
 
-### 5.7. App Development Newsletters
-
-- Android
-
-> 1. [Android Weekly](https://androidweekly.net/)
-> 2. [Android Dev Digest](https://www.androiddevdigest.com/)
-
-- iOS
-
-> 1. [iOS Dev Weekly](https://iosdevweekly.com/)
-> 2. [iOS Goodies](https://ios-goodies.com/)
-
-- Flutter
-
-> 1. [Flutter Weekly](https://flutterweekly.net/)
-> 2. [Flutter Community](https://fluttercommunity.dev/)
-
-- React Native
-
-> 1. [React Native Newsletter](https://reactnative.cc/)
-> 2. [React Native Coach](https://reactnativecoach.com/issues/)
-
-### 5.8. App Development YouTube Channels
+### 5.7. App Development YouTube Channels
 
 - Android
 
