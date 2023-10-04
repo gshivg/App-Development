@@ -166,7 +166,7 @@ App development is the process of creating a computer program or a set of progra
 
 - Android
 
-> 1. [Udaity - Paid](https://www.udacity.com/course/new-android-fundamentals--ud851)
+> 1. [Udacity - Paid](https://www.udacity.com/course/new-android-fundamentals--ud851)
 > 2. [Udemy - Paid](https://www.udemy.com/course/the-complete-android-oreo-developer-course/)
 > 3. [Coursera - Free](https://www.coursera.org/specializations/android-app-development)
 
