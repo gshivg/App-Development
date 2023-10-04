@@ -105,7 +105,7 @@ App development is the process of creating a computer program or a set of progra
 
 > React Native
 
-> Xamarin (C#) (Support Ending May 1st 2024)
+> Xamarin (C#) (Support Ending May 1st 2024) to be replaced by (.NET MAUI)[https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/]
 
 ## 3. App Development Tools
 
