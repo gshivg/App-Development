@@ -1,4 +1,4 @@
-# About App Development 
+# About App Development
 
 ## 1. Introduction
 
@@ -22,8 +22,8 @@ App development is the process of creating a computer program or a set of progra
 
 > 1. **Learn the Basics**
 > 2. **Choose a Framework**
-> 3. **Choose a Platform**
-> 4. **Choose a Language**
+> 3. **Learn the Programming Language**
+> 4. **Build Projects**
 > 5. **Choose a Database**
 > 6. **Choose a Backend**
 > 7. **Choose a UI/UX Design**
@@ -36,84 +36,86 @@ App development is the process of creating a computer program or a set of progra
 
 > Programming Language
 
-* `Java` or `Kotlin` for Android
-* `Swift` for iOS
-* `Dart` for Flutter
-* `JavaScript` for React Native
+- `Java` or `Kotlin` for Android
+- `Swift` for iOS
+- `Dart` for Flutter
+- `JavaScript` for React Native
 
 > Coding Fundamentals
 
-* `Variables`
-* `Data Types`
-* `Operators`
-* `Control Flow`
-* `Functions`
-* `OOPS`
-* `Basic Data Structures`
+- `Variables`
+- `Data Types`
+- `Operators`
+- `Control Flow`
+- `Functions`
+- `OOPS`
+- `Basic Data Structures`
 
 > Framework Basics > Basics Projects
 
-* `Android Studio` for Android
-* `Xcode` for iOS
-* `Flutter SDK` for Flutter
-* `React Native` for React Native
+- `Android Studio` for Android
+- `Xcode` for iOS
+- `Flutter SDK` for Flutter
+- `React Native` for React Native
 
 > Version Control
 
-* `Git`
-* `GitHub`
+- `Git`
+- `GitHub`
 
 > UI/UX Design
 
-* `Figma`
+- `Figma`
 
 > API Integration
 
-* `REST APIs`
-* `GraphQL APIs`
+- `REST APIs`
+- `GraphQL APIs`
 
 > Database
 
-* `Firebase`
-* `MongoDB`
-* `MySQL`
-* `PostgreSQL`
+- `Firebase`
+- `MongoDB`
+- `MySQL`
+- `PostgreSQL`
 
 > Animations
 
-* `Lottie`
-* `Rive`
+- `Lottie`
+- `Rive`
 
 > Framework Advanced Topics > Advanced Projects
 
-> Further Learning 
+> Further Learning
 
-* `Backend Development`
-* `Augmented Reality`
+- `Backend Development`
+- `Augmented Reality`
 
 ### 2B. App Development Frameworks
 
 ### 2B.1. Native App Development
 
->  Android with Kotlin
+> Android with Kotlin
 
->  iOS with Swift
+> iOS with Swift
 
 ### 2B.2. Cross-Platform App Development
 
->  Flutter
+> Flutter
 
->  React Native
+> React Native
+
+> Xamarin (C#) (Support Ending May 1st 2024)
 
 ## 3. App Development Tools
 
-### 3.1. Android 
+### 3.1. Android
 
->  Java / Kotlin
+> Java / Kotlin
 
->  Android Studio
+> Android Studio
 
->  Android SDK
+> Android SDK
 
 > Gradle
 
@@ -121,11 +123,11 @@ App development is the process of creating a computer program or a set of progra
 
 ### 3.2. iOS
 
->  Xcode
+> Xcode
 
->  Swift
+> Swift
 
->  Objective-C
+> Objective-C
 
 > UIKit
 
@@ -133,25 +135,23 @@ App development is the process of creating a computer program or a set of progra
 
 ### 3.3. Flutter
 
->  Dart
+> Dart
 
->  Flutter 
+> Flutter
 
 ### 3.4. React Native
 
->  HTML / CSS / JavaScript
+> HTML / CSS / JavaScript
 
->  Node.js
+> Node.js
 
->  React
+> React
 
->  React Native
+> React Native
 
->  Expo
+> Expo
 
 ## 4. App Development Process
-
-### 4.1. App Development Lifecycle
 
 > 1. Planning
 > 2. Design
@@ -160,49 +160,38 @@ App development is the process of creating a computer program or a set of progra
 > 5. Deployment
 > 6. Maintenance
 
-### 4.2. App Development Workflow
-
-> 1. Requirement Gathering
-> 2. Design
-> 3. Development
-> 4. Testing
-> 5. Deployment
-> 6. Maintenance
-
-### 4.3. App Development Team
-
-> 1. Product Manager
-> 2. Project Manager
-> 3. UI/UX Designer
-> 4. Frontend Developer
-> 5. Backend Developer
-> 6. QA Engineer
-> 7. DevOps Engineer
-> 8. Database Administrator
-> 9. Security Engineer
-
 ## 5. App Development Resources
 
 ### 5.1. App Development Courses
 
-> 1. [Android App Development Course](https://www.udacity.com/course/new-android-fundamentals--ud851)
-> 2. [iOS App Development Course](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
-> 3. [Flutter App Development Course](https://www.udacity.com/course/flutter-nanodegree--nd035)
-> 4. [React Native App Development Course](https://www.udacity.com/course/react-native-developer-nanodegree--nd019)
-> 5. [Android App Development Course](https://www.udemy.com/course/the-complete-android-oreo-developer-course/)
-> 6. [iOS App Development Course](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
-> 7. [Flutter App Development Course](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
-> 8. [React Native App Development Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
-> 9. [Android App Development Course](https://www.coursera.org/specializations/android-app-development)
-> 10. [iOS App Development Course](https://www.coursera.org/specializations/app-development)
-> 11. [Flutter App Development Course](https://www.coursera.org/specializations/flutter)
-> 12. [React Native App Development Course](https://www.coursera.org/specializations/react-native)
-> 13. [Android App Development Course](https://www.edx.org/professional-certificate/galileox-android-developer)
-> 14. [iOS App Development Course](https://www.edx.org/professional-certificate/harvardx-mobile-app-development-with-swiftui)
-> 15. [Flutter App Development Course](https://www.edx.org/professional-certificate/dart-and-flutter)
-> 16. [React Native App Development Course](https://www.edx.org/professional-certificate/react-native-developer)
-> 17. [Android App Development Course](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+- Android
 
+> 1. [Android App Development Course](https://www.udacity.com/course/new-android-fundamentals--ud851)
+> 2. [Android App Development Course](https://www.udemy.com/course/the-complete-android-oreo-developer-course/)
+> 3. [Android App Development Course](https://www.coursera.org/specializations/android-app-development)
+> 4. [Android App Development Course](https://www.edx.org/professional-certificate/galileox-android-developer)
+> 5. [Android App Development Course](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+
+- iOS
+
+> 1. [iOS App Development Course](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
+> 2. [iOS App Development Course](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+> 3. [iOS App Development Course](https://www.coursera.org/specializations/app-development)
+> 4. [iOS App Development Course](https://www.edx.org/professional-certificate/harvardx-mobile-app-development-with-swiftui)
+
+- Flutter
+
+> 1. [Flutter App Development Course](https://www.udacity.com/course/flutter-nanodegree--nd035)
+> 2. [Flutter App Development Course](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+> 3. [Flutter App Development Course](https://www.coursera.org/specializations/flutter)
+> 4. [Flutter App Development Course](https://www.edx.org/professional-certificate/dart-and-flutter)
+
+- React Native
+
+> 1. [React Native App Development Course](https://www.udacity.com/course/react-native-developer-nanodegree--nd019)
+> 2. [React Native App Development Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
+> 3. [React Native App Development Course](https://www.coursera.org/specializations/react-native)
+> 4. [React Native App Development Course](https://www.edx.org/professional-certificate/react-native-developer)
 
 ### 5.2. App Development Books
 
@@ -223,14 +212,14 @@ App development is the process of creating a computer program or a set of progra
 
 ### 5.4. App Development Communities
 
-* Reddit
+- Reddit
 
 > 1. [r/androiddev](https://www.reddit.com/r/androiddev/)
 > 2. [r/iOSProgramming](https://www.reddit.com/r/iOSProgramming/)
 > 3. [r/FlutterDev](https://www.reddit.com/r/FlutterDev/)
 > 4. [r/reactnative](https://www.reddit.com/r/reactnative/)
 
-* LinkedIn
+- LinkedIn
 
 > 1. [Android Developers](https://www.linkedin.com/groups/4332757/)
 > 2. [iOS Developers](https://www.linkedin.com/groups/137507/)
@@ -238,45 +227,44 @@ App development is the process of creating a computer program or a set of progra
 > 4. [React Native Developers](https://www.linkedin.com/groups/13868082/)
 > 5. [Mobile App Developers](https://www.linkedin.com/groups/13868082/)
 
-* Twitter
+- Twitter
 
 > 1. [Android Developers](https://twitter.com/AndroidDev)
 > 2. [iOS Developers](https://twitter.com/iOSDevCenters)
 > 3. [Flutter Developers](https://twitter.com/FlutterDev)
 > 4. [React Native Developers](https://twitter.com/reactnative)
 
-* Facebook
+- Facebook
 
 > 1. [Android Developers](https://www.facebook.com/groups/androiddevelopers)
 > 2. [iOS Developers](https://www.facebook.com/groups/iosdevelopers)
 > 3. [Flutter Developers](https://www.facebook.com/groups/flutterdev)
 > 4. [React Native Developers](https://www.facebook.com/groups/react.native.community)
 
-* Slack
+- Slack
 
 > 1. [Android Developers](https://androiddevs.slack.com/)
 > 2. [iOS Developers](https://ios-developers.io/)
 > 3. [Flutter Developers](https://fluttercommunity.slack.com/)
 > 4. [React Native Developers](https://reactiflux.com/)
 
-* Discord
+- Discord
 
 > 1. [Android Developers](https://discord.com/invite/androiddev)
 > 2. [iOS Developers](https://discord.com/invite/iosdev)
 > 3. [Flutter Developers](https://discord.com/invite/N7Yshp4)
 > 4. [React Native Developers](https://discord.com/invite/reactiflux)
 
-* Stack Overflow
+- Stack Overflow
 
 > 1. [Android Developers](https://stackoverflow.com/questions/tagged/android)
 > 2. [iOS Developers](https://stackoverflow.com/questions/tagged/ios)
 > 3. [Flutter Developers](https://stackoverflow.com/questions/tagged/flutter)
 > 4. [React Native Developers](https://stackoverflow.com/questions/tagged/react-native)
 
-
 ### 5.5. App Development Blogs
 
-* Android
+- Android
 
 > 1. [Android Developers Blog](https://android-developers.googleblog.com/)
 > 2. [Android Authority](https://www.androidauthority.com/)
@@ -289,7 +277,7 @@ App development is the process of creating a computer program or a set of progra
 > 9. [Android Weekly](https://androidweekly.net/)
 > 10. [Android Developers](https://developer.android.com/blog)
 
-* iOS
+- iOS
 
 > 1. [iOS Dev Weekly](https://iosdevweekly.com/)
 > 2. [iOS Goodies](https://ios-goodies.com/)
@@ -302,7 +290,7 @@ App development is the process of creating a computer program or a set of progra
 > 9. [iOS Developers Videos](https://developer.apple.com/videos/)
 > 10. [iOS Developers WWDC](https://developer.apple.com/wwdc/)
 
-* Flutter
+- Flutter
 
 > 1. [Flutter](https://flutter.dev/blog/)
 > 2. [Flutter Community](https://fluttercommunity.dev/)
@@ -312,7 +300,7 @@ App development is the process of creating a computer program or a set of progra
 > 6. [Flutter Widgets](https://flutter.dev/docs/development/ui/widgets)
 > 7. [Flutter Cookbook](https://flutter.dev/docs/cookbook)
 
-* React Native
+- React Native
 
 > 1. [React Native Blog](https://reactnative.dev/blog/)
 > 2. [React Native Community](https://reactnative.dev/community)
@@ -322,59 +310,59 @@ App development is the process of creating a computer program or a set of progra
 
 ### 5.6. App Development Podcasts
 
-* Android
+- Android
 
 > 1. [Android Developers Backstage](https://androidbackstage.blogspot.com/)
 > 2. [Fragmented](https://fragmentedpodcast.com/)
 > 3. [Android Developers](https://developer.android.com/podcasts)
 
-* iOS
+- iOS
 
 > 1. [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
 > 2. [Under the Radar](https://www.relay.fm/radar)
 > 3. [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 
-* React Native
+- React Native
 
 > 1. [React Native Radio](https://devchat.tv/react-native-radio/)
 
 ### 5.7. App Development Newsletters
 
-* Android
+- Android
 
 > 1. [Android Weekly](https://androidweekly.net/)
 > 2. [Android Dev Digest](https://www.androiddevdigest.com/)
 
-* iOS
+- iOS
 
 > 1. [iOS Dev Weekly](https://iosdevweekly.com/)
 > 2. [iOS Goodies](https://ios-goodies.com/)
 
-* Flutter
+- Flutter
 
 > 1. [Flutter Weekly](https://flutterweekly.net/)
 > 2. [Flutter Community](https://fluttercommunity.dev/)
 
-* React Native
+- React Native
 
 > 1. [React Native Newsletter](https://reactnative.cc/)
 > 2. [React Native Coach](https://reactnativecoach.com/issues/)
 
 ### 5.8. App Development YouTube Channels
 
-* Android
+- Android
 
 > 1. [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
 > 2. [CodingWithMitch](https://www.youtube.com/@codingwithmitch)
 
-* iOS
+- iOS
 
 > 1. [iOS Academy](https://www.youtube.com/@iOSAcademy/)
 > 2. [CodeWithChris](https://www.youtube.com/@CodeWithChris)
 > 3. [Sean Allen](https://www.youtube.com/@SeanAllen)
 > 4. [Lets Build That App](https://www.youtube.com/@LetsBuildThatApp)
 
-* Flutter
+- Flutter
 
 > 1. [Flutter](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
 > 2. [Flutter Community](https://www.youtube.com/@FlutterCommunity)
